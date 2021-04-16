@@ -1,3 +1,2 @@
 # Social Distancing- Distant Tracker
-
-In this project YOLOv2 and Detectron is used to track the distance betweeen individuals in a video.
+In this project, YOLOv2 and Detectron are used to track the distance between individuals in a video.
